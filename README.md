@@ -1,76 +1,190 @@
-Infosys Financial Model & Stock Pitch
+Infosys Financial Model & Stock Pitch Report
 
-A comprehensive financial analysis and valuation project on Infosys Ltd., combining financial statement analysis, forecasting, valuation models, peer comparison, and an equity research-style stock pitch.
+A comprehensive financial modelling and valuation project on Infosys Ltd., combining historical financial analysis, three-statement forecasting, DCF valuation, comparable company analysis, and an equity research-style stock pitch.
 
-Project Overview
+The project follows an end-to-end investment analysis approach, starting from historical financial statements and operating assumptions and progressing toward financial forecasts, intrinsic valuation, relative valuation, and an overall investment view.
 
-This project was developed to understand and evaluate Infosys from both a financial modelling and investment analysis perspective. The project brings together historical financial analysis, forward projections, valuation methodologies, and a final investment view into one integrated analysis.
+📌 Project Overview
 
-The project includes a structured Excel financial model along with a detailed stock pitch report explaining the company's financial performance, business outlook, valuation, key drivers, risks, and investment thesis.
+The objective of this project was to build an integrated financial analysis of Infosys and evaluate its potential valuation using multiple approaches.
 
-What's Included
+The project combines an Excel-based financial model with a detailed stock pitch report, allowing the financial analysis and valuation outputs to support the overall investment thesis.
 
-1. Financial Statement Analysis
+Analysis Flow
 
-- Historical Income Statement, Balance Sheet and Cash Flow analysis
-- Revenue, profitability and margin analysis
-- Working capital and cash flow analysis
-- Historical financial ratio analysis
-- Identification of key financial trends and business drivers
+Historical Financials → Financial Forecasting → 3-Statement Model → WACC → DCF Valuation → Comparable Company Analysis → Implied Valuation → Stock Pitch
 
-2. Financial Forecasting
+---
 
-- Forecasted financial statements based on historical performance and operating assumptions
-- Revenue and expense projections
-- Profitability and margin forecasts
-- Working capital and cash flow projections
-- Supporting assumptions and schedules used in the model
+📊 What's Included
 
-3. DCF Valuation
+1. Historical Financial Analysis
+
+The model analyses Infosys' historical financial performance, including:
+
+- Revenue and revenue growth
+- Operating expenses
+- EBITDA and EBIT
+- Profitability and margins
+- Balance sheet structure
+- Working capital
+- Cash flow performance
+- Key financial ratios
+
+Historical financials are used as the foundation for identifying trends and developing forward-looking assumptions.
+
+2. Three-Statement Financial Model
+
+A structured financial model has been developed to connect the company's:
+
+- Income Statement
+- Balance Sheet
+- Cash Flow Statement
+
+The model incorporates historical financials and forecast assumptions to project future financial performance while maintaining the relationships between the three statements.
+
+3. Financial Forecasting
+
+Future financial performance is estimated using operating and financial assumptions.
+
+The forecast includes:
+
+- Revenue projections
+- Expense projections
+- EBITDA and EBIT forecasts
+- Profit after tax
+- Working capital assumptions
+- Capital expenditure
+- Depreciation
+- Cash flow projections
+- Balance sheet projections
+
+The forecast period is then used as the basis for the valuation analysis.
+
+---
+
+💰 4. DCF Valuation
+
+A Discounted Cash Flow model is used to estimate the intrinsic value of Infosys.
+
+The DCF analysis includes:
 
 - Free Cash Flow estimation
-- WACC calculation
-- Terminal value calculation
-- Enterprise Value and Equity Value estimation
+- Weighted Average Cost of Capital (WACC)
+- Terminal value
+- Present value of forecast-period cash flows
+- Enterprise value
+- Equity value
 - Implied value per share
-- Comparison of intrinsic value with the prevailing market price
 
-4. Comparable Company Analysis
+A sensitivity analysis is also included to examine how changes in key valuation assumptions can affect the implied valuation.
 
-- Selection of relevant industry peers
-- Revenue, EBITDA and profitability comparison
-- Enterprise Value and Equity Value analysis
-- EV/EBITDA and other valuation multiples
-- Median peer multiple-based valuation
-- Implied share price based on relative valuation
+---
 
-5. Stock Pitch Report
+📈 5. Comparable Company Analysis
 
-The accompanying report presents the overall investment case for Infosys, covering:
+Relative valuation is performed using selected industry peers.
 
-- Company and business overview
-- Industry and business outlook
-- Financial performance
-- Key growth drivers
+The analysis compares companies using metrics and valuation multiples such as:
+
+- Revenue
+- EBITDA
+- EBIT
+- Net Profit
+- Enterprise Value
+- Equity Value
+- EV/EBITDA
+- Other relevant valuation measures
+
+Peer valuation multiples are used to estimate an implied valuation for Infosys.
+
+The analysis also considers the median valuation multiple of the selected peer group to reduce the impact of individual peer outliers.
+
+---
+
+📝 6. Stock Pitch Report
+
+The accompanying stock pitch report brings the financial analysis together into an equity research-style investment case.
+
+The report covers:
+
+- Company overview
+- Business and industry context
+- Historical financial performance
+- Key business and financial drivers
+- Forecast outlook
 - Valuation analysis
+- DCF valuation
+- Comparable company valuation
 - Investment thesis
-- Key risks and challenges
+- Key risks
 - Overall investment view
 
-Key Skills Demonstrated
+The report is designed to present the analysis in a concise format similar to a professional stock research pitch.
 
-Financial Modelling | 3-Statement Modelling | DCF Valuation | Comparable Company Analysis | Equity Research | Financial Statement Analysis | Forecasting | Excel | Valuation
+---
 
-Project Structure
+🧩 Project Structure
 
-Infosys-Financial-Model-Stock-Pitch/
+Infosys-Financial-Model-and-Stock-pitch-Report/
 │
-├── Infosys_Financial_Model.xlsx
-├── Infosys_Stock_Pitch_Report.pdf
+├── Infosys.xlsx
+├── Infosys Stock Pitch Report.pdf
 └── README.md
 
-Purpose
+Files
 
-The objective of this project was to build an end-to-end company analysis similar to the workflow used in equity research and corporate finance, starting from historical financial statements and assumptions and progressing toward financial forecasts, valuation, and an investment conclusion.
+"Infosys.xlsx"
+Complete financial model containing historical analysis, forecasting, three-statement modelling, DCF valuation, sensitivity analysis and comparable company valuation.
 
-This project demonstrates the ability to connect financial statements → forecasts → valuation → investment thesis within a single analysis. 
+"Infosys Stock Pitch Report.pdf"
+Equity research-style report summarising the company's financial performance, valuation, investment thesis and key risks.
+
+---
+
+🛠️ Tools & Skills Demonstrated
+
+Financial Skills
+
+- Financial Statement Analysis
+- Three-Statement Financial Modelling
+- Financial Forecasting
+- DCF Valuation
+- WACC Calculation
+- Comparable Company Analysis
+- Relative Valuation
+- Sensitivity Analysis
+- Equity Research
+- Investment Thesis Development
+
+Tools
+
+- Microsoft Excel
+- Microsoft PowerPoint / PDF reporting
+
+---
+
+🎯 Project Objective
+
+The primary objective was to develop an end-to-end understanding of how fundamental company analysis can be translated into a financial model and ultimately into an investment recommendation.
+
+Rather than analysing individual financial metrics in isolation, the project connects:
+
+Company Performance → Financial Statements → Forecasts → Cash Flows → Valuation → Investment Thesis
+
+This approach provides a structured framework for evaluating a company's financial health, future performance and potential valuation.
+
+---
+
+⚠️ Disclaimer
+
+This project is created for educational and portfolio purposes only. The analysis, assumptions, forecasts and valuation estimates represent the author's modelling approach and should not be considered investment advice or a recommendation to buy or sell any security.
+
+---
+
+👤 Author
+
+Priyanshu
+
+This project was independently prepared as part of a portfolio demonstrating practical skills in financial modelling, valuation and equity research.
+
